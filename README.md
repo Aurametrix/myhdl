@@ -74,3 +74,6 @@ To install co-simulation support:
 
 Go to the directory ``cosimulation/<platform>`` for your target platform
 and following the instructions in the ``README.txt`` file.
+
+
+[Opoen Source Hardware](https://github.com/aolofsson/awesome-opensource-hardware)
